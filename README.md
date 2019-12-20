@@ -34,7 +34,7 @@
 		</div>
 
 		<div class="row">
-			<div class="col-sm-12"><h2>2.1)¿Quién soy yo? Autobiografía</h2></div>
+			<div class="col-sm-12"><h2>¿Quién soy yo? Autobiografía</h2></div>
 		</div>
 		<div class="row">
 			<div class="col-sm-12">
@@ -51,7 +51,7 @@ En ese juego si era muy bueno, me pase noches y días enteras jugando para ser c
 	
 
 		<div class="row">
-			<div class="col-sm-12"><h2>2.1)PNI (positivo, negativo e interesante)</h2></div>
+			<div class="col-sm-12"><h2>PNI (positivo, negativo e interesante)</h2></div>
 		</div>
 		<div class="row">
 			<div class="col-sm-12">
